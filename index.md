@@ -1,6 +1,6 @@
 <script src="/functions.js"></script>
 <script type="text/javascript">
- test();
+ displayEventTable();
 </script>
 a
 ## Welcome to GitHub Pages
