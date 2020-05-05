@@ -1,6 +1,5 @@
 <strong>???</strong>
-<script type="text/javascript">
- alert("???");
+<script src="/function.js">
 </script>
 ## Welcome to GitHub Pages
 
