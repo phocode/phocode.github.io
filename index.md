@@ -1,8 +1,8 @@
-<script src="/function.js"></script>
+<script src="/functions.js"></script>
 <script type="text/javascript">
  test();
 </script>
-
+a
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/phocode/phocode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
